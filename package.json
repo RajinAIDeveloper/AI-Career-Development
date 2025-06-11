@@ -1,0 +1,30 @@
+{
+  "name": "simple-performance-ai-agent",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@clerk/nextjs": "^6.21.0",
+    "@google/generative-ai": "^0.24.1",
+    "framer-motion": "^12.16.0",
+    "lucide-react": "^0.513.0",
+    "mammoth": "^1.9.1",
+    "next": "15.3.3",
+    "papaparse": "^5.5.3",
+    "pdf-parse": "^1.1.1",
+    "pdf2pic": "^3.2.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-hot-toast": "^2.5.2",
+    "recharts": "^2.15.3"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "tailwindcss": "^4"
+  }
+}
